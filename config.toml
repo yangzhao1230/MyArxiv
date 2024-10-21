@@ -4,28 +4,23 @@ cache_url = "https://yangzhao1230.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
-
-[[sources]]
-limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
-
-[[sources]]
-limit = 150
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "q-bio.BM"
+title = "Biomolecules"
+
+[[sources]]
+limit = 150
+category = "q-bio.GN"
+title = "Genomics"
+
+[[sources]]
+limit = 150
+category = "q-bio.QM"
+title = "Quantitative Methods"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
